@@ -1,11 +1,11 @@
 # PPGEEL / UFMT - Programa de Pós-Graduação em Engenharia Elétrica
 
 - **Faculdade de Arquitetura, Engenharia e Tecnologia (FAET)**
-- **Disciplina:** Inteligência Computacional / Métodos Computacionais
+- **Disciplina:** Inteligência Computacional
 - **Docente:** Prof. Felipe Proença de Albuquerque
 - **Discente:** João Victor Nogueira de Souza
 - **Matrícula:** 25920269
-- **Atividade:** Exercícios 1 e 2 - Método de Monte Carlo
+- **Atividade:** Exercício 1 - Método de Monte Carlo
 
 ---
 
