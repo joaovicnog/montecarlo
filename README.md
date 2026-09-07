@@ -1,11 +1,11 @@
-# PPGEEL / UFMT — Programa de Pós-Graduação em Engenharia Elétrica
+# PPGEEL / UFMT - Programa de Pós-Graduação em Engenharia Elétrica
 
-**Faculdade de Arquitetura, Engenharia e Tecnologia (FAET)**
-**Disciplina:** Inteligência Computacional / Métodos Computacionais
-**Docente:** Prof. Felipe Proença de Albuquerque
-**Discente:** João Victor Nogueira de Souza
-**Matrícula:** 25920269
-**Atividade:** Exercício 1 — Método de Monte Carlo
+- **Faculdade de Arquitetura, Engenharia e Tecnologia (FAET)**
+- **Disciplina:** Inteligência Computacional / Métodos Computacionais
+- **Docente:** Prof. Felipe Proença de Albuquerque
+- **Discente:** João Victor Nogueira de Souza
+- **Matrícula:** 25920269
+- **Atividade:** Exercícios 1 e 2 - Método de Monte Carlo
 
 ---
 
@@ -17,8 +17,8 @@ Este repositório contém a resolução teórica, analítica e computacional com
 
 ## 📁 Estrutura do Repositório
 
-* `montecarlo.ipynb`: Jupyter Notebook contendo toda a implementação computacional, simulações, demonstrações teóricas, gráficos e resultados numéricos.
-* `README.md`: Documentação geral do projeto, especificação dos exercícios e dados de identificação do discente.
+- `montecarlo.ipynb`: Jupyter Notebook contendo toda a implementação computacional, simulações, demonstrações teóricas, gráficos e resultados numéricos.
+- `README.md`: identificação do discente, descrição do projeto e instruções de execução.
 
 ---
 
@@ -27,4 +27,5 @@ Este repositório contém a resolução teórica, analítica e computacional com
 Para rodar o notebook, instale as dependências necessárias:
 
 ```bash
-pip install numpy scipy matplotlib jupyter
+pip install numpy matplotlib jupyter
+```
